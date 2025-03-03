@@ -99,8 +99,8 @@ El notebook principal (`notebook.ipynb`) contiene todo el proceso de análisis y
 Para más información sobre este proyecto, puedes contactar a:
 
 📧 smsanmartinlepin@gmail.com\
-🐙 https://github.com/Scarleth6o6/\
-💼 www.linkedin.com/in/scarlethsan-martin
+🐙 https://github.com/Scarleth6o6\
+💼 www.linkedin.com/in/scarlethsan-martin\
 
 ---
 
